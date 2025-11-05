@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WatanabeYuito21&layout=compact&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WatanabeYuito21&layout=compact&langs_count=8)
